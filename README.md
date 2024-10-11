@@ -50,7 +50,6 @@ node scraper.js https://example.com h1
 When running the tool, you will be prompted with options if you are extracting text (non-image selectors):
 - **Only Text**: Extracts and displays plain text content without tags.
 - **Text with Hierarchy**: Displays text content along with its hierarchy (nested HTML structure).
-- **Both Text and Tags**: Displays the text and the associated HTML tags.
 
 ### Image Extraction
 
